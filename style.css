@@ -31,7 +31,7 @@ nav ul{
     display: inline-block;
     list-style-type: none;
     max-height: 0; /* Menu hidden by default */
-    overflow: hidden;
+    
 }
 nav ul li{
     display: inline-block;
